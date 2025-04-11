@@ -1,3 +1,10 @@
+# Projeto Moda Ora
+Moda Ora é um site de vitrine virtual para uma loja de roupas, desenvolvido com foco na apresentação dos produtos de forma moderna, atraente e organizada. O projeto simula uma loja online com seções de destaque, novidades e informações de contato, oferecendo uma experiência visual pensada para o público da moda.
+
+## Tecnologias:
+- HTML
+- CSS
+
 ### Link para acessar o Site:
 https://projeto-moda-ora.vercel.app/
 ##
